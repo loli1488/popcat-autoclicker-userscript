@@ -1,6 +1,5 @@
 // ==UserScript==
 // @name         Popcat
-// @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  Pop pop pop pop
 // @author       Loli
