@@ -7,11 +7,9 @@
 // @grant        none
 // ==/UserScript==
 
-
-
 (function() {
     'use strict';
-    var interval = 1000 / (800 / 30) ;
+    var interval = 1000 / (800 / 30) -1 ;
     var e = document.getElementsByClassName('cat-img')[0];
     var event = new KeyboardEvent('keydown', {
         key: 'g',
